@@ -16,6 +16,7 @@
 
 <body>
     <h1>HelloWord</h1>
+    <h3>This is class{{ $classNumber }} and I'm {{ $studentName }}</h3>
 </body>
 
 </html>
